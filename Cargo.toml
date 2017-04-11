@@ -1,0 +1,6 @@
+[package]
+name = "nickelWebDev"
+version = "0.1.0"
+authors = ["Lorenzo Iannuzzi <lorenzoiannuzzi@gmail.com>"]
+
+[dependencies]
